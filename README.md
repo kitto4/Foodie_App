@@ -13,3 +13,6 @@ Tech Used:
 HTML
 CSS
 JavaScript
+
+## Live Demo
+[Click here to view the project](https://foodieeappp.netlify.app/)
